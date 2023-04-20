@@ -7,7 +7,7 @@ const authorizeApplication = () => {
 
 // TODO #3.1: Change group number
 const getGroupNumber = () => {
-  return 99;
+  return 5;
 };
 
 // Example: Send Get user profile ("GET") request to backend server and show the response on the webpage
